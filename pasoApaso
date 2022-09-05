@@ -1,0 +1,7 @@
+Para crear un nuevo proyecto de aplicación web:
+Visit:https://docs.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-6.0&tabs=windows
+ 
+
+ Para Crear una Aplicación Bwe con Razor
+ 1. dotnet new webapp -o RazorPagesMovie
+ 2. code -r RazorPagesMovie
